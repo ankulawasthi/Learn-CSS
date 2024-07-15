@@ -1,0 +1,17 @@
+--------Inline Style: Writing style inline on each element.
+
+eg,.. <h1 style="color:red">Hi' lets learn CSS</h1>
+
+------Using style tag: 
+                       <style>
+                            h1{
+
+                                color: blue
+                            }
+                        </style>
+
+--------External styleSheet: 
+                                
+step link css file with html 
+
+<link rel="styleSheet" href="css file name"/>
