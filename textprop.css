@@ -1,0 +1,12 @@
+/* Text align */ 
+
+h1{
+    text-align: center;
+    width: 50%;
+    margin: auto;
+}
+
+h2{
+    text-align: center;
+    /* width: 100%; */
+}
